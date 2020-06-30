@@ -20,7 +20,7 @@ The `pygame` python library has been used as the backbone for building each of t
 
 
 ## How to run Trifecta ?
-Run the [MAINMENU.py](https://github.com/fork52/Trifecta/blob/master/MAINMENU.py) file. You will have to install the following dependencies :
+Simply run the [MAINMENU.py](https://github.com/fork52/Trifecta/blob/master/MAINMENU.py) file and you are good to go. However, you will have to install the following dependencies prior to that:
 
 1. [pygame](https://www.pygame.org/docs/) - Pygame is a Python wrapper module for the SDL multimedia library. It contains python functions and classes that will allow you to use SDL’s support for playing cdroms, audio and video output, and keyboard, mouse and joystick input
 2. [python-chess](https://python-chess.readthedocs.io/en/latest/) - python-chess is a pure Python chess library with move generation, move validation and support for common formats.
@@ -30,7 +30,7 @@ Run the [MAINMENU.py](https://github.com/fork52/Trifecta/blob/master/MAINMENU.py
 
 ### 1. Chess
 
-This is essentially a two player chess game. The pieces can be moved by dragging them around.The chess games are evaluated on the basis of FIDE rules of chess. At the end of the game, the pgn file of the entire chess game is stored in the [ChessResources](https://github.com/fork52/Trifecta/tree/master/ChessResources). This can be used to analyze your game in the future! Also note that the FEN of the current position will be automatically copied to your clipboard which can be used to analyze the position.
+This is essentially a two player chess game. The pieces can be moved by dragging them around.The chess games are evaluated on the basis of FIDE rules of chess. At the end of the game, the pgn file of the entire chess game is stored in the [./ChessResources/pgn/](https://github.com/fork52/Trifecta/tree/master/ChessResources/PGN) directory. This can be used to analyze your game in the future! Also note that the FEN of the current position will be automatically copied to your clipboard which can be used to analyze the position.
 
 ### 2. Rock Paper Scissors (RPS)
 
