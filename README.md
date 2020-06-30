@@ -10,7 +10,6 @@
 
 ![Main Menu](https://github.com/fork52/Trifecta/blob/master/Readme_Files/1.png)
 
-
 Trifecta is a fun python project consisting of three games namely :
 1. Chess
 2. Rock-Paper-Scissors (RPS) 
@@ -27,6 +26,18 @@ Run the [MAINMENU.py](https://github.com/fork52/Trifecta/blob/master/MAINMENU.py
 2. [python-chess](https://python-chess.readthedocs.io/en/latest/) - python-chess is a pure Python chess library with move generation, move validation and support for common formats.
 3. [pyperclip](https://pypi.org/project/pyperclip/) - Pyperclip is a cross-platform Python module for copy and paste clipboard functions. It works with Python 2 and 3.
 
+## About the games
+
+### 1. Chess
+
+This is essentially a two player chess game. The pieces can be moved by dragging them around.The chess games are evaluated on the basis of FIDE rules of chess. At the end of the game, the pgn file of the entire chess game is stored in the [ChessResources](https://github.com/fork52/Trifecta/tree/master/ChessResources). This can be used to analyze your game in the future! Also note that the FEN of the current position will be automatically copied to your clipboard which can be used to analyze the position.
+
+### 2. Rock Paper Scissors (RPS)
+
+RPS is a single player classic Rock Paper Scissors game against the computer. The controls for this game are keyboard based. The computer's moves are completely random. First to 5 points wins!
+
+### 3. Whack A Mole (WAM)
+WAM is also a single player classic Whack A Mole game against the computer. You gotta simply click on the mole as soon as you can, once it pops up. The game speeds up eventually and your reflexes will come into play!
 
 
 ## License
