@@ -7,14 +7,15 @@
 [![Size][repo-size-img]][repo-url]
 
 ## Description
+
+![Main Menu](https://github.com/fork52/Trifecta/blob/master/Readme_Files/1.png)
+
+
 Trifecta is a fun python project consisting of three games namely :
 1. Chess
-2. Rock-Paper-Scissors(RPS) 
-3. Whack-A-Mole(WAM).
-<!--  
-<p align="center">
-<img src="https://github.com/fork52/QUOTES-HUDDLE/blob/master/demo.gif">
-</p> -->
+2. Rock-Paper-Scissors (RPS) 
+3. Whack-A-Mole (WAM)
+ 
 
 The `pygame` python library has been used as the backbone for building each of them. Each game is aided with background music making the experience better!
 
