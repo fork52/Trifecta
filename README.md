@@ -42,7 +42,7 @@ This is essentially a two player chess game. The pieces can be moved by dragging
 RPS is a single player classic Rock Paper Scissors game against the computer. The controls for this game are keyboard based. The computer's moves are completely random. First to 5 points wins!
 
 <p align="center">
-<img src="https://github.com/fork52/Trifecta/blob/master/Readme_Files/RPSdemo.gif" width="80%" height="80%">
+<img src="https://github.com/fork52/Trifecta/blob/master/Readme_Files/RPSdemo.gif" width="70%" height="70%">
 </p>
 
 
@@ -50,7 +50,7 @@ RPS is a single player classic Rock Paper Scissors game against the computer. Th
 WAM is also a single player classic Whack A Mole game against the computer. You gotta simply click on the mole as soon as you can, once it pops up. The game speeds up eventually and your reflexes will come into play!
 
 <p align="center">
-<img src="https://github.com/fork52/Trifecta/blob/master/Readme_Files/WAMdemo.gif" width="80%" height="80%">
+<img src="https://github.com/fork52/Trifecta/blob/master/Readme_Files/WAMdemo.gif" width="70%" height="70%">
 </p>
 
 
