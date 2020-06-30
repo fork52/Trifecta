@@ -33,7 +33,7 @@ Simply run the [MAINMENU.py](https://github.com/fork52/Trifecta/blob/master/MAIN
 This is essentially a two player chess game. The pieces can be moved by dragging them around.The chess games are evaluated on the basis of FIDE rules of chess. At the end of the game, the pgn file of the entire chess game is stored in the [./ChessResources/pgn/](https://github.com/fork52/Trifecta/tree/master/ChessResources/PGN) directory. This can be used to analyze your game in the future! Also note that the FEN of the current position will be automatically copied to your clipboard which can be used to analyze the position.
 
 <p align="center">
-<img src="https://github.com/fork52/Trifecta/blob/master/Readme_Files/chessdemo.gif" width="60%" height="60%">
+<img src="https://github.com/fork52/Trifecta/blob/master/Readme_Files/chessdemo.gif" width="70%" height="70%">
 </p>
 
 
